@@ -64,3 +64,8 @@ This repository contains a Python script to convert multiple Jupyter notebooks (
     ```
 
     You will be prompted to select the notebooks you want to convert and whether you want to merge the generated PDFs into a single file.
+
+
+   # Licence
+   
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
