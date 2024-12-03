@@ -8,7 +8,7 @@
 ```
  Convert Multiple Jupyter Notebooks to PDF
  
-# Multiple Jupyter to PDF Converter (Multi_nb2pdf)
+# Multiple Jupyter Notebooks to PDF Converter (Multi_nb2pdf)
 
 This repository contains a Python script to convert multiple Jupyter notebooks (`.ipynb` files) to PDF format simultaneously. The script allows the user to select specific notebooks or ranges of notebooks to convert, and provides an option to merge all generated PDFs into a single PDF file.
 
