@@ -21,7 +21,7 @@ This repository contains a Python script to convert multiple Jupyter notebooks (
 ## Requirements
 
 - Python 3.x
-- Jupyter
+- [Jupyter](https://jupyter.org/)
 - [PyPDF2](https://pypi.org/project/PyPDF2/)
 - [nbconvert](https://pypi.org/project/nbconvert/)
 - [pandoc](https://pandoc.org/)
