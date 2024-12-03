@@ -1,0 +1,4 @@
+jupyter
+PyPDF2
+nbconvert
+pandoc
